@@ -14,7 +14,7 @@ def run(argv=None):
     pipeline_args.extend(['--runner=DirectRunner'])
 
     print(known_args)
-    print(pipeline_args)
+    #print(pipeline_args)
 
 
 if __name__ == '__main__':
